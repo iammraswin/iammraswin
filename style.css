@@ -2,7 +2,10 @@ html{
     scroll-behavior: smooth;
     scroll-padding-top: 88px;
 }
-
+img{
+    max-width: 100%;
+    height: auto;
+}
 #portfolio-section{
     background-color: #068FFF;
     border-radius: 5px;
