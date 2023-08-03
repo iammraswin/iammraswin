@@ -360,9 +360,8 @@ img{
 .profilecard{
     padding-top: 20px;
     margin: 10px 0 20px 0;
-    background-color: rgb(251, 251, 251); 
-    border-radius: 5px;
-    color: white;    
+    background-color: rgb(251, 251, 251);    
+      
 }
 
 .profilecard .profilecard-heading {
