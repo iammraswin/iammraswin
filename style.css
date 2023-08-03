@@ -442,6 +442,7 @@ img{
 .profilecard.hovercard .avatar {
     position: relative;  
     background-color: #4E4FEB;
+    border: 0px solid;
     
 }
 
