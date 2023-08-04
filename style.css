@@ -356,93 +356,15 @@ img{
 
 
 
-
-.profilecard{
-    padding-top: 20px;
-    margin: 10px 0 20px 0;
-    background-color: rgb(251, 251, 251);    
-      
-}
-
-.profilecard .profilecard-heading {
-    padding: 0 20px;
-    margin: 0;
-}
-
-.profilecard .profilecard-heading.simple {
-    font-size: 20px;
-    font-weight: 300;
-    color: #ffffff;
-    
-}
-
-.profilecard .profilecard-heading.image img {
-    display: inline-block;
-    width: 46px;
-    height: 46px;
-    margin-right: 15px;
-    vertical-align: top;    
-    border-radius: 50%;
-}
-
-.profilecard .profilecard-heading.image .profilecard-heading-header {
-    display: inline-block;
-    vertical-align: top;
-}
-
-.profilecard .profilecard-heading.image .profilecard-heading-header h3 {
-    margin: 0;
-    font-size: 14px;
-    line-height: 16px;
-    color: #ffffff;
-}
-
-.profilecard .profilecard-heading.image .profilecard-heading-header span {
-    font-size: 12px;
-    color: #ffffff;
-}
-
-.profilecard .profilecard-body {
-    padding: 0 20px;
-    margin-top: 20px;
-}
-
-.profilecard .profilecard-media {
-    padding: 0 20px;
-    margin: 0 -14px;
-}
-
-.profilecard .profilecard-media img {
-    max-width: 100%;
-    min-height: 100%;
-}
-
-.profilecard.people .profilecard-bottom {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    display: inline-block;
-    width: 100%;
-    padding: 10px 20px;
-    line-height: 29px;
-    text-align: center;    
-}
-
 .profilecard.hovercard {
-    position: relative;
-    padding-top: 0;
     max-width: 100%;
-    max-height: 100% ;    
-    overflow: hidden;
-    text-align: center;
-    border-radius: 5px;
+    max-height: 100% ; 
+    text-align: center;   
     background-color: rgb(255, 255, 255);}
 
 .profilecard.hovercard .avatar {
     position: relative;  
     background-color: #4E4FEB;
-    border: 0px solid;
-    
 }
 
 .profilecard.hovercard .avatar img {
@@ -452,24 +374,11 @@ img{
     border: 5px solid rgb(255, 255, 255);    
 }
 
-.info {
-    
-    max-width: 100%;
-    border-radius: 5px;
-}
-
 .profilename{
     color: #4E4FEB;
     font-size: 100px;
     font-weight: bolder;
 }
-
-.profilecard.hovercard .bottom {
-    padding: 0 20px;
-    margin-bottom: 17px;
-}
-
-.profilebtn{ border-radius: 50%; width:32px; height:32px; line-height:18px;  }
 
 .fa:hover {
     opacity: 0.9;
