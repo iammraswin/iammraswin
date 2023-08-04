@@ -392,14 +392,3 @@ img{
 .fa-brands:hover {
     opacity: 0.9;
 }
-
-
-.portfoliocard{
-    max-width: 600px;
-    min-height: 16rem;
-}
-
-.portfoliocard img{
-    max-width: auto;
-    height: max-content;
-}
