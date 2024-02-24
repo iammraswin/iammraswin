@@ -437,7 +437,7 @@ img{
   }
 
 #scroll-content{
-    height: 30rem;
+    height: 40rem;
     overflow-y: auto;  
     scrollbar-width: none;
 }
