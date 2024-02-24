@@ -1,6 +1,7 @@
 html{
     scroll-behavior: smooth;
     scroll-padding-top: 88px;
+    scrollbar-width: none;
 }
 img{
     
@@ -207,9 +208,6 @@ img{
         display: none;
     }
 }
-
-
-
 
 .card-body{
     background-color: #272e48; 
@@ -437,3 +435,9 @@ img{
   @keyframes preloader {
     100% { transform: scale(2); }
   }
+
+#scroll-content{
+    height: 30rem;
+    overflow-y: auto;  
+    scrollbar-width: none;
+}
