@@ -441,3 +441,7 @@ img{
     overflow-y: auto;  
     scrollbar-width: none;
 }
+
+#bodysection{
+    background-color: #0C0C0C;
+}
